@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KontaktyXamarin.SzczegolyOsobyForm">
+    <ContentPage.Content>
+        <StackLayout Padding="10" IsEnabled="False">
+            <Entry Placeholder="Podaj Imie" x:Name="ImieInput" />
+            <Entry Placeholder="Podaj Nazwisko" x:Name="NazwiskoInput" />
+            <Entry Placeholder="Podaj Kod Pocztowy" x:Name="KodPocztowyInput" MaxLength="6"/>
+            <Entry Placeholder="Podaj numer telefonu" x:Name="NumerTelefonuInput" Keyboard="Numeric" MaxLength="9"/>
+            <RadioButton Content="Mężczyzna" IsChecked="True" GroupName="Sex" x:Name="ManRadio"/>
+            <RadioButton Content="Kobieta"  GroupName="Sex" x:Name="WomanRadio"/>
+            <Picker Title="Wojewodztwo" x:Name="WojewodztwaPicker">
+                <Picker.Items>
+                    <x:String>dolnośląskie</x:String>
+                    <x:String>kujawsko-pomorskie</x:String>
+                    <x:String>lubelskie</x:String>
+                    <x:String>lubuskie</x:String>
+                    <x:String>łódzkie</x:String>
+                    <x:String>małopolskie</x:String>
+                    <x:String>mazowieckie</x:String>
+                    <x:String>opolskie</x:String>
+                    <x:String>podkarpackie</x:String>
+                    <x:String>podlaskie</x:String>
+                    <x:String>śląskie</x:String>
+                    <x:String>pomorskie</x:String>
+                    <x:String>świętokrzyskie</x:String>
+                    <x:String>warmińsko-mazurskie</x:String>
+                    <x:String>wielkopolskie</x:String>
+                    <x:String>zachodniopomorskie</x:String>
+                </Picker.Items>
+            </Picker>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KontaktyXamarin.DodajOsobeForm">
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Entry Placeholder="Podaj Imie" x:Name="ImieInput" TextChanged="ImieInput_TextChanged"/>
+            <Entry Placeholder="Podaj Nazwisko" x:Name="NazwiskoInput" TextChanged="NazwiskoInput_TextChanged"/>
+            <Entry Placeholder="Podaj Kod Pocztowy" x:Name="KodPocztowyInput" TextChanged="KodPocztowyInput_TextChanged" MaxLength="6"/>
+            <Entry Placeholder="Podaj numer telefonu" x:Name="NumerTelefonuInput" Keyboard="Numeric" MaxLength="9" TextChanged="NumerTelefonuInput_TextChanged"/>
+            <RadioButton Content="Mężczyzna" IsChecked="True" GroupName="Sex" x:Name="ManRadio"/>
+            <RadioButton Content="Kobieta"  GroupName="Sex" x:Name="WomanRadio"/>
+            <Picker Title="Wojewodztwo" x:Name="WojewodztwaPicker">
+                <Picker.Items>
+                    <x:String>dolnośląskie</x:String>
+                    <x:String>kujawsko-pomorskie</x:String>
+                    <x:String>lubelskie</x:String>
+                    <x:String>lubuskie</x:String>
+                    <x:String>łódzkie</x:String>
+                    <x:String>małopolskie</x:String>
+                    <x:String>mazowieckie</x:String>
+                    <x:String>opolskie</x:String>
+                    <x:String>podkarpackie</x:String>
+                    <x:String>podlaskie</x:String>
+                    <x:String>śląskie</x:String>
+                    <x:String>pomorskie</x:String>
+                    <x:String>świętokrzyskie</x:String>
+                    <x:String>warmińsko-mazurskie</x:String>
+                    <x:String>wielkopolskie</x:String>
+                    <x:String>zachodniopomorskie</x:String>
+                </Picker.Items>
+            </Picker>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="7*" />
+                </Grid.ColumnDefinitions>
+                <CheckBox  Grid.Column="0" x:Name="checkbox" CheckedChanged="checkbox_CheckedChanged"/>
+                <Label Grid.Column="1" Text="Zgadzam sie na przetwarzanie danych"/>
+            </Grid>
+            <Button x:Name="button" IsEnabled="False" Text="Dodaj osobe" Clicked="DodajOsobe"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

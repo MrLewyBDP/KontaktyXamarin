@@ -1,0 +1,69 @@
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.csproj.AssemblyReference.cache
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.AssemblyInfo.cs
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.dll
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\refint\KontaktyXamarin.dll
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.pdb
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.deps.json
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.dll
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.pdb
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\ref\KontaktyXamarin.dll
+C:\Users\Mateusz\source\repos\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\MainFlyoutPage.xaml.g.cs
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.deps.json
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.dll
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.pdb
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.csproj.AssemblyReference.cache
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\MainFlyoutPage.xaml.g.cs
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.AssemblyInfoInputs.cache
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.AssemblyInfo.cs
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.csproj.CoreCompileInputs.cache
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.dll
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\refint\KontaktyXamarin.dll
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.pdb
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\ref\KontaktyXamarin.dll
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\DodajOsobeForm.xaml.g.cs
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\FormModyfikuj.xaml.g.cs
+C:\Users\48601\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\SzczegolyOsobyForm.xaml.g.cs
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.deps.json
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.dll
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.pdb
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.csproj.AssemblyReference.cache
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\DodajOsobeForm.xaml.g.cs
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\FormModyfikuj.xaml.g.cs
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\MainFlyoutPage.xaml.g.cs
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\SzczegolyOsobyForm.xaml.g.cs
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.AssemblyInfoInputs.cache
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.AssemblyInfo.cs
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.csproj.CoreCompileInputs.cache
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.dll
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\refint\KontaktyXamarin.dll
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.pdb
+C:\Users\4TPG2 Pawel Tocar\Desktop\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\ref\KontaktyXamarin.dll
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.deps.json
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.dll
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\bin\Debug\netstandard2.0\KontaktyXamarin.pdb
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.csproj.AssemblyReference.cache
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.GeneratedMSBuildEditorConfig.editorconfig
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\DodajOsobeForm.xaml.g.cs
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\FormModyfikuj.xaml.g.cs
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\MainFlyoutPage.xaml.g.cs
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\SzczegolyOsobyForm.xaml.g.cs
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.AssemblyInfoInputs.cache
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.AssemblyInfo.cs
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.csproj.CoreCompileInputs.cache
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.dll
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\refint\KontaktyXamarin.dll
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\KontaktyXamarin.pdb
+D:\XAMARIN\KontaktyXamarin\KontaktyXamarin\KontaktyXamarin\obj\Debug\netstandard2.0\ref\KontaktyXamarin.dll

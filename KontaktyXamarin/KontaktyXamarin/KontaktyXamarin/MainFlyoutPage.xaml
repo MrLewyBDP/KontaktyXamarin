@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:KontaktyXamarin"
+             x:Class="KontaktyXamarin.MainFlyoutPage"
+            NavigationPage.HasNavigationBar="false"
+            Title="Menu">
+    <FlyoutPage.Flyout>
+        <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:KontaktyXamarin"
+             xmlns:localPages="clr-namespace:KontaktyXamarin"
+             Title="MenuPage">
+            <StackLayout Margin="10">
+                <Button Text="Dodaj osobe" Clicked="DodajOsobe"/>
+                <Button Text="Usuń osobe" Clicked="UsunOsobe"/>
+                <Button Text="Modyfikuj osobe" Clicked="ModyfikujOsobe"/>
+                <Button Text="Nowa baza" Clicked="NowaBaza"/>
+            </StackLayout>
+        </ContentPage>
+    </FlyoutPage.Flyout>
+    <FlyoutPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KontaktyXamarin.MainPage">
+                    <Grid Margin="15">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50" />
+                            <RowDefinition />
+                            <RowDefinition Height="50" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="50" />
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition />
+                            <ColumnDefinition Width="100" />
+                            <ColumnDefinition Width="50" />
+                        </Grid.ColumnDefinitions>
+                        <Frame Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="5" Padding="0" Margin="5,5" BackgroundColor="White" HasShadow="False" BorderColor="Black" CornerRadius="15" HeightRequest="50">
+                            <SearchBar x:Name="searchBar" BackgroundColor="Transparent" TextChanged="searchBar_TextChanged"/>
+                        </Frame>
+                        <ListView Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="5" x:Name="listaOsob" BackgroundColor="White">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                   
+                                    <ViewCell Tapped="SzczegolgyTapped">
+                                        <ViewCell.ContextActions>
+                                            <MenuItem Text="Usun" Clicked="UsunOsobe"/>
+                                            <MenuItem Text="Modyfikuj" Clicked="ModyfikujOsobe"/>
+                                        </ViewCell.ContextActions>
+                                        <StackLayout HorizontalOptions="Start" Orientation="Horizontal" VerticalOptions="Start">
+                                            <Label FontSize="Title" TextColor="Black" Text="{Binding imie}"/>
+                                            <Label FontSize="Title" TextColor="black" Text="{Binding nazwisko}"/>
+                                        </StackLayout>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                        <ProgressBar Grid.Row="3" Grid.ColumnSpan="5" ProgressColor="Green" x:Name="progressbar" ></ProgressBar>
+                        <Button Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Text="Prev" Clicked="Lewo"></Button>
+                        <Label Grid.Row="4" Grid.Column="2" Text="1" x:Name="NumerStrony" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                        <Button Grid.Row="4" Grid.Column="3" Grid.ColumnSpan="2" Text="Next" Clicked="Prawo"></Button>
+                    </Grid>
+                </ContentPage>
+            </x:Arguments>
+        </NavigationPage>
+    </FlyoutPage.Detail>
+</FlyoutPage>
